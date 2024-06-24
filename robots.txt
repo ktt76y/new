@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /watchIn/form*
+Disallow: /watchIn/rec*
+Disallow: /watchIn/click*
+Disallow: /watchIn/scroll*
+Disallow: /watchIn/popup*
+Disallow: /watchIn/cart*
+Disallow: /watchIn/product*
+Disallow: /watchIn/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: http://apcc.watchIn.ws/sitemap.xml
+Host: apcc.watchIn.ws
